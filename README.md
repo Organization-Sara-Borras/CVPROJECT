@@ -42,7 +42,11 @@ Complete Regression Test Plan of the project.
 [BDD Test Coverage](/test-plans/functional-test-plan-and-bdd-coverage.pdf)
 Complete Functional BDD test coverage of the project.and live documentation
 
-
+### TEST RESULTS
+Functional and Regression test results and report for each project release.
+#### Release version 1.1
+* [Functional Test Results and Bug Report 1.1](/test-results/informe-trazabilidad-1.1.pdf) 
+* [Regression Test Results 1.1](/test-results/regresion-informe-trazabilidad-1.1.pdf)
 
 ## AUTHOR
 Sara Borras, QA Engineer
