@@ -48,6 +48,10 @@ Functional and Regression test results and report for each project release.
 * [Functional Test Results and Bug Report 1.1](/test-results/informe-trazabilidad-1.1.pdf) 
 * [Regression Test Results 1.1](/test-results/regresion-informe-trazabilidad-1.1.pdf)
 
+#### Release version 1.3
+* [Functional Test Results and Bug Report 1.1](/test-results/informe-trazabilidad-1.1.pdf) 
+* [Regression Test Results 1.1](/test-results/regresion-informe-trazabilidad-1.1.pdf)
+
 ## AUTHOR
 Sara Borras, QA Engineer
 [LinkedIn Profile](https://www.linkedin.com/in/reyescuesta)
