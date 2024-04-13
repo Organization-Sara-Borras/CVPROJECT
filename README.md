@@ -34,19 +34,36 @@ This project adopts BDD Methodology for testing.
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Organization-Sara-Borras_CVPROJECT)](https://sonarcloud.io/summary/new_code?id=Organization-Sara-Borras_CVPROJECT)
 SonarQube Static Test Analisys Result.
 
+
 ### REGRESSION TEST PLAN
-[Regression Test Plan](/test-plans/regression-test-plan.pdf)
 Complete Regression Test Plan of the project.
 
+#### Release version 1.1
+[Regression Test Plan 1.1](/test-plans/regression-test-results-1.1.pdf)
+
+#### Release version 1.2
+[Regression Test Plan 1.2](/test-plans/regression-test-results-1.2.pdf)
+
+
 ### TEST COVERAGE AND LIVE DOCUMENTATION
-[BDD Test Coverage](/test-plans/functional-test-plan-and-bdd-coverage.pdf)
 Complete Functional BDD test coverage of the project.and live documentation
+
+#### Release version 1.1
+[BDD Test Coverage 1.1](/test-plans/functional-test-plan-and-bdd-coverage-1.1.pdf)
+
+#### Release version 1.2
+[BDD Test Coverage 1.2](/test-plans/functional-test-plan-and-bdd-coverage-1.2.pdf)
+
 
 ### TEST RESULTS
 Functional and Regression test results and report for each project release.
 #### Release version 1.1
 * [Functional Test Results and Bug Report 1.1](/test-results/informe-trazabilidad-1.1.pdf) 
 * [Regression Test Results 1.1](/test-results/regresion-informe-trazabilidad-1.1.pdf)
+
+#### Release version 1.2
+* [Functional Test Results and Bug Report 1.2](/test-results/functional-test-results-and-bug-report-release-1.2.pdf) 
+* [Regression Test Results 1.2](/test-results/regression-test-results-release-1.2.pdf)
 
 #### Release version 1.3
 * [Functional Test Results and Bug Report 1.1](/test-results/informe-trazabilidad-1.1.pdf) 
